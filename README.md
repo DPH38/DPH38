@@ -23,21 +23,49 @@ Recém-graduado em Engenharia de Software (dez/2025) e Bacharel em Ciências Eco
 ### 🛠️ **Stacks Técnicas**
 
 **Linguagens:**  
-Python • Rust • SQL • C++ • Node  
-**Frameworks & Bibliotecas:**  
-Flask • FastAPI • Pandas • NumPy • Express (Node.js) • Flutter  
-**Web:**  
-HTML • CSS • JavaScript  
-**Banco de Dados:**  
-MySQL • MariaDB• NoSQL (MongoDB) • Modelagem conceitual/lógica/física  
-**Ferramentas & Plataformas:**  
-Git • Azure • MSGraph • SharePoint • Power Automate (RPA) • WSL  
-**Integrações & APIs:**  
-MSGraph • SharePoint  
-**Embarcados:**  
-Sistemas embarcados em C++ (ESP32 – nível acadêmico)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 
----
+**Frameworks & Bibliotecas:**  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express-404D59?logo=express&logoColor=white&style=flat-square)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+
+**Web:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
+**Banco de Dados:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+🗂️ Modelagem conceitual/lógica/física
+
+**Ferramentas & Plataformas:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoft-powerautomate&logoColor=white&style=flat-square)
+![WSL](https://img.shields.io/badge/-WSL-4D4D4D?logo=windows&logoColor=white&style=flat-square)
+![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white&style=flat-square)
+![MSGraph](https://img.shields.io/badge/-MS%20Graph-6264A7?logo=microsoft-graph&logoColor=white&style=flat-square)
+<!-- Adicione/remova badges conforme desejar -->
+
+**Integrações & APIs:**  
+MSGraph • SharePoint
+
+**Embarcados:**  
+Sistemas embarcados em ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)  
+ESP32 (nível acadêmico)
+
+
+
 
 ### 🧠 **Conhecimentos Complementares**
 
